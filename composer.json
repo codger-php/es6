@@ -14,5 +14,8 @@
         "psr-4": {
             "Codger\\Es6\\": "./src"
         }
+    },
+    "require-dev": {
+        "toast/unit": "^1.3"
     }
 }
