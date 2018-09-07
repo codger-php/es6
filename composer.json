@@ -1,0 +1,18 @@
+{
+    "name": "codger/es6",
+    "description": "Codger code generator, ES6 templates",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marijn Ophorst",
+            "email": "marijn@monomelodies.nl"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Codger\\Es6\\": "./src"
+        }
+    }
+}
